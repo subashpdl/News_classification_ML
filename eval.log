@@ -1,0 +1,9 @@
+Loading word vectors...
+Found 400000 word vectors.
+Processing text dataset
+Loaded 18846 texts.
+Found 87701 unique tokens.
+Shape of texts tensor: (18846, 100)
+Shape of label tensor: (18846, 20)
+Preparing embedding matrix.
+Generating embedding matrices
